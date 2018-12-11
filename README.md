@@ -9,7 +9,6 @@ Flock allows you to have a well structured discussion with your friends to build
 ![Flock Screenshots](flock-showcase.jpg)
 
 ## Installation
-_**Pre-requisites:** npm & git installed, mongoDB running (see [here](https://docs.mongodb.com/v3.2/installation/))_
 ```
 # clone the repo to your computer
 git clone https://github.com/mrcknz/flock-client.git
@@ -25,12 +24,12 @@ npm start
 ```
 
 ## Stack
-1. Apollo
-2. MongoDB
+1. React
+2. Apollo-Client (GraphQL)
 
 ## Creators
-* [Marco Kunz](https://github.com/mrcknz) [[linkedin](https://www.linkedin.com/in/marcokunz)]
 * [Berta Cumellas](https://github.com/bertacume) [[linkedin](https://www.linkedin.com/in/berta-cumellas/)]
 * [Arturo Moreira Pintos dos Santos](https://github.com/artyBMPS) [[linkedin](https://www.linkedin.com/in/arturo-m-santos)]
+* [Marco Kunz](https://github.com/mrcknz) [[linkedin](https://www.linkedin.com/in/marcokunz)]
 * [Damien Derail](https://github.com/Damien1208) [[linkedin](https://www.linkedin.com/in/damien-derail-b446932a/)]
 * [Christopher Buecklein](https://github.com/Bueggi) [[linkedin](https://www.linkedin.com/in/christopher-b%C3%BCcklein-594b13b3/)]
